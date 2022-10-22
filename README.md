@@ -1,4 +1,4 @@
-#In order for the app to work, I needed to install the following:
+#In order for the app to work, I needed to install the following (I used PowerShell):
 
 npm install --save-dev web-vitals
 
